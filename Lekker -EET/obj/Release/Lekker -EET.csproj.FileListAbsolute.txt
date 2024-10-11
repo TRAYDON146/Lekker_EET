@@ -1,0 +1,24 @@
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\obj\Release\Lekker__EET.Form1.resources
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\obj\Release\Lekker__EET.Properties.Resources.resources
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\obj\Release\Lekker -EET.csproj.GenerateResource.Cache
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\bin\Release\Lekker -EET.exe
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\bin\Release\Lekker -EET.pdb
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\obj\Release\Lekker -EET.exe
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\obj\Release\Lekker -EET.pdb
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\obj\Release\Lekker__EET.RegistrationForm.resources
+C:\Users\L5G2\AppData\Local\Temporary Projects\Lekker -EET\obj\Release\Lekker__EET.MAINFORM.resources
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker -EET.exe
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker -EET.pdb
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\bin\Release\Lekker -EET.exe
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\bin\Release\Lekker -EET.pdb
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker__EET.Form1.resources
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker__EET.MAINFORM.resources
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker__EET.Properties.Resources.resources
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker -EET.csproj.GenerateResource.Cache
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker__EET.Mainform_foruser.resources
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker__EET.NEW_USERS.resources
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker__EET.Decirte.resources
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker__EET.Meals.resources
+C:\Users\L5G2\Documents\Visual Studio 2008\Projects\Lekker -EET\obj\Release\Lekker__EET.Starters.resources
