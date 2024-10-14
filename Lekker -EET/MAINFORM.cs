@@ -122,9 +122,13 @@ namespace Lekker__EET
             dataGridView1.DataSource = dt;
             conn.Close();
         }
-
-       
-        
+        private void button7_Click(object sender,EventArgs e)
+        {
+        Rating_form rf = new Rating_form();
+            rf.Show();
+            this.Hide();
+}
+              
     }
 }
 
