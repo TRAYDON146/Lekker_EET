@@ -107,5 +107,11 @@ namespace Lekker__EET
             FF.Show();
             this.Hide();
         }
+        private void button7_Click(object sender, EventArgs e)
+        {
+        Rating_form rf = new Rating_form();
+            rf.Show();
+            this.Hide();
+        }
     }
 }
